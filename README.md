@@ -3,6 +3,7 @@
 <!--
 **budaLi/budaLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![image](https://github.com/budaLi/budaLi/blob/master/image.png)
+不搭不搭么么哒
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
