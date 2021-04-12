@@ -1,4 +1,4 @@
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budaLi)](https://github.com/budaLi/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=budaLi)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭不搭不搭么么哒
